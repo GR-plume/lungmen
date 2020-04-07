@@ -1,7 +1,8 @@
-### Lungmen
----
+## Lungmen
+
 This is Github practice.
 ---
+
 I like *hot dog*. Because it is not a **dog**. Do you like *hot dog*?
 eat, eat, eat *hot dog*. *Hot dog*, ***burger***, ***coca cola***.
 
@@ -9,8 +10,8 @@ eat, eat, eat *hot dog*. *Hot dog*, ***burger***, ***coca cola***.
 > eat, eat, eat hot dog. Hot dog, burger, coca cola.
 
 - hot dog
- - hot
- - dog
+    - hot
+    - dog
 - burger
 - coca cola
 
@@ -22,7 +23,7 @@ eat, eat, eat *hot dog*. *Hot dog*, ***burger***, ***coca cola***.
 
 `I like hot dog` is meme.
 
-```hotdog.js
+```js:hotdog.js
 
 (function () {
     console.log("I like hot dog.");
